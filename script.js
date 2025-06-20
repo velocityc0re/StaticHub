@@ -1,3 +1,4 @@
+// Tab switching logic
 const tabBtns = document.querySelectorAll('.tab-btn');
 const tabPanes = document.querySelectorAll('.tab-pane');
 
